@@ -1,4 +1,4 @@
-<title>Chatting App</title> <link rel="stylesheet" href="styles.css"> </head> <body> <h1>Chatting App</h1> <p>This is a real-time chatting app built with C++, CSS, JS, and HTML. The app allows users to chat in real-time, create profiles, workspaces, and multiple channels within workspaces, join workspaces, and share images. The app is built using Flask, socket-io, HTML, CSS, and JavaScript. 😎</p>
+<body> <h1>Chatting App</h1> <p>This is a real-time chatting app built with C++, CSS, JS, and HTML. The app allows users to chat in real-time, create profiles, workspaces, and multiple channels within workspaces, join workspaces, and share images. The app is built using Flask, socket-io, HTML, CSS, and JavaScript. 😎</p>
 <h2>Features</h2>
 <ul>
 	<li>Real-time chatting: Users can chat in real-time with other users who are online.</li>
