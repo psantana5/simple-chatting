@@ -1,4 +1,4 @@
-<body> <h1>Chatting App</h1> <p>This is a real-time chatting app built with C++, CSS, JS, and HTML. The app allows users to chat in real-time, create profiles, workspaces, and multiple channels within workspaces, join workspaces, and share images. The app is built using Flask, socket-io, HTML, CSS, and JavaScript. 😎</p>
+<body> <h1>Chatting App</h1> <p>This is a real-time chatting app built with C++, CSS, JS, and HTML. The will allow users to chat in real-time, create profiles, workspaces, and multiple channels within workspaces, join workspaces, and share images. The app will be built using Flask, socket-io, HTML, CSS, and JavaScript. 😎</p>
 <h2>Features</h2>
 <ul>
 	<li>Real-time chatting: Users can chat in real-time with other users who are online.</li>
@@ -10,7 +10,7 @@
 </ul>
 
 <h2>How to Use</h2>
-<p>To use this app, you will need to download the source code and run it locally on your machine. Once you have the code, you can run it using Flask and socket-io. 🚀</p>
+<p>To use this app, you will need to download the source code and run it locally on your machine. Once you have the code, you can run it using the html file in your browser 🚀</p>
 
 <h2>Credits</h2>
 <p>This app was built using the following resources:</p>
@@ -20,19 +20,6 @@
 	<li>HTML: A markup language used for creating web pages.</li>
 	<li>CSS: A stylesheet language used for styling web pages.</li>
 	<li>JavaScript: A programming language used for creating interactive web pages.</li>
-</ul>
-
-<h2>Contributing</h2>
-<p>If you would like to contribute to this project, please see our <a href="CONTRIBUTING.md">contributing guidelines</a> for more information. 🤝</p>
-
-<h2>License</h2>
-<p>This project is licensed under the <a href="LICENSE">MIT License</a>. 📜</p>
-
-<h2>Acknowledgments</h2>
-<p>We would like to thank the following contributors for their help with this project:</p>
-<ul>
-	<li>John Smith</li>
-	<li>Jane Doe</li>
 </ul>
 
 <h2>References</h2>
