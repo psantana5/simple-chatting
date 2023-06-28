@@ -10,7 +10,7 @@
 </ul>
 
 <h2>How to Use</h2>
-<p>To use this app, you will need to download the source code and run it locally on your machine. Once you have the code, you can run it using the html file in your browser 🚀</p>
+<p>To use this app, you will need to download the source code and run it locally on your machine. Once you have the code, you can run it using the html file in your browser 🚀. You can also run the bash script to install all of the required dependencies (dependencies.sh)</p>
 
 <h2>Credits</h2>
 <p>This app was built using the following resources:</p>
